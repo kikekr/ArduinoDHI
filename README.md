@@ -1,3 +1,3 @@
-ArduinoSamples
+ArduinoDHI
 
 Some works with Arduino
